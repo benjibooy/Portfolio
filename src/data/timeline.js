@@ -24,6 +24,18 @@ export default [
         details: 'I love all kinds of art. I have always found it facinating how we humans express ourselves through different forms of art. I have found my way to express myself through music so for five years i have learned to wright songs, play the guitar and sing.'
     },
     {
+        year: '2023',
+        title: 'Moved Out',
+        duration: 'Until further notice',
+        details: 'Me and my girlfriend finally decided to move in together not that i had much choice in the matter after getting in to a huge fight with my father. But after some hard work and some back and fourth with both her parents and the landlord we finally got the apartment. This feels like the begining of a new chapter in my life and i finally have some freedom to make choices that are truly mine.'
+    },
+    {
+        year: '2023',
+        title: 'Drivers License',
+        duration: 'N/A',
+        details: 'I got my drivers license.'
+    },
+    {
         year: '2022',
         title: 'Summer Musician',
         duration: '1 month',

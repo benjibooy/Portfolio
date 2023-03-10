@@ -27,7 +27,7 @@ export default [
         year: '2022',
         title: 'Summer Musician',
         duration: '1 month',
-        details: 'In the summer of 2022 I went around playing in front of elderly and sick people with some bandmates. This was a really fun experience and the smiles on those elderly peoples faces really made the har work worth it. Because of my good guitar knowlage and fast learning I also took the role of front figure and singer and i had to teach myself a lot of new things in just about a weeks time. This was very much a challange but in the end i managed it all.'
+        details: 'In the summer of 2022 I went around playing in front of elderly and sick people with some bandmates. This was a really fun experience and the smiles on those elderly peoples faces really made the hard work worth it. Because of my good guitar knowlage and fast learning I also took the role of front figure and singer and i had to teach myself a lot of new things in just about a weeks time. This was very much a challange but in the end i managed it all.'
     },
     {
         year: '2021',
